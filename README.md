@@ -6,7 +6,7 @@ MyStorage 📂 will help keep your files always at hand with cloud storage
 - Authorization. You can log in to your storage from any device using an 6 digits SMS code
 - Upload/Delete/Download files
 - Create folders
-- Get a list of all your files
+- Get a list of all your files in a grid or list
 
 ## Screenshots
 
