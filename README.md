@@ -9,7 +9,7 @@ MyStorage 📂 will help keep your files always at hand with cloud storage
 - Get a list of all your files in a grid or list
 
 ## Screenshots
-<img src="https://github.com/max-pav-love/MyStorage/blob/main/Screenshots/Login_screen.png" width="214" height="463">  <img src="https://github.com/max-pav-love/MyStorage/blob/main/Screenshots/SMS_Screen.png" width="214" height="463">  <img src="https://github.com/max-pav-love/MyStorage/blob/main/Screenshots/Main_screen_grid.png" width="214" height="463">  <img src="https://github.com/max-pav-love/MyStorage/blob/main/Screenshots/Main_screen_list.png" width="214" height="463">
+<img src="https://github.com/max-pav-love/MyStorage/blob/main/Screenshots/Login_screen.png" width="214" height="463">  <img src="https://github.com/max-pav-love/MyStorage/blob/main/Screenshots/SMS_Screen.png" width="214" height="463">  <img src="https://github.com/max-pav-love/MyStorage/blob/main/Screenshots/Main_screen_grid.png" width="214" height="463">  <img src="https://github.com/max-pav-love/MyStorage/blob/main/Screenshots/Main_screen_list.png" width="214" height="463">  <img src="https://github.com/max-pav-love/MyStorage/blob/main/Screenshots/Upload_alert.png" width="214" height="463">
 
 ## Technologies Used
 - MVVM
