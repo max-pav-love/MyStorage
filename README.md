@@ -4,7 +4,7 @@
 MyStorage 📂 will help keep your files always at hand with cloud storage
 ## Features
 - Authorization. You can log in to your storage from any device using an 6 digits SMS code
-- Upload/Delete/Download files
+- Upload/Delete/Download files by long tap
 - Create folders
 - Get a list of all your files in a grid or list
 
