@@ -10,9 +10,6 @@ MyStorage 📂 will help keep your files always at hand with cloud storage
 
 ## Screenshots
 
-## Setup
-- [x] Just download and run
-
 ## Technologies Used
 - MVVM
 - Google Firebase Auth
