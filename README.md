@@ -9,7 +9,9 @@ MyStorage 📂 will help keep your files always at hand with cloud storage
 - Get a list of all your files in a grid or list
 
 ## Screenshots
-
+<img src="https://github.com/max-pav-love/lastNews/MyStorageb/main/Screenshots/Main_screen_grid.png" width="214" height="463">
+<img src="https://github.com/max-pav-love/lastNews/MyStorageb/main/Screenshots/Main_screen_list.png" width="214" height="463">
+<img src="https://github.com/max-pav-love/lastNews/MyStorageb/main/Screenshots/Login_screen_list.png" width="214" height="463">
 ## Technologies Used
 - MVVM
 - Google Firebase Auth
