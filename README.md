@@ -1,9 +1,5 @@
 # MyStorage 📂
-iOS cloud storage app
 > Simple cloud storage app for ios 15.5 on swift .
-
-I made this app in four different architectures: `MVC` `MVVM` `VIPER` `Clean Swift`
-
 ## General Information
 - MyStorage📂 will help keep your files always at hand with cloud storage.
 ## Features
